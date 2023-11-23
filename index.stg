@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -10,22 +10,22 @@
     <meta name="keywords" content="Phan mem elearning, phan mem soan elearning" />
 
     <!-- Google / Search Engine Tags -->
-    <meta itemprop="name" content="Từ mượn ">
-    <meta itemprop="description" content="Được tạo bởi Avina Authoring Tools">
-    <meta itemprop="image" content="/resources/images/PresentationThumbnail.png">
+    <meta itemprop="name" content="$meta.Title$">
+    <meta itemprop="description" content="$meta.Description$">
+    <meta itemprop="image" content="$meta.MetaThumbnail$">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Từ mượn ">
-    <meta property="og:description" content="Được tạo bởi Avina Authoring Tools">
-    <meta property="og:image" content="/resources/images/PresentationThumbnail.png">
+    <meta property="og:title" content="$meta.Title$">
+    <meta property="og:description" content="$meta.Description$">
+    <meta property="og:image" content="$meta.MetaThumbnail$">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Từ mượn ">
-    <meta name="twitter:description" content="Được tạo bởi Avina Authoring Tools">
-    <meta name="twitter:image:src" content="/resources/images/PresentationThumbnail.png">
+    <meta name="twitter:title" content="$meta.Title$">
+    <meta name="twitter:description" content="$meta.Description$">
+    <meta name="twitter:image:src" content="$meta.MetaThumbnail$">
 
     <link rel="stylesheet" charset="UTF-8" href="css/jquery-ui.css">
     <link rel="stylesheet" charset="UTF-8" href="css/style.css">
@@ -155,14 +155,14 @@
                                                C408.786,24.662,384.124,0,353.701,0z" />
                                             </svg>
                                         </a>
-
+        
                                         <a id=twitterInfo class="icon28" style="margin-left:10px;" target="_blank">
                                             <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                                 viewBox="0 0 455.731 455.731" style="enable-background:new 0 0 455.731 455.731;"
                                                 xml:space="preserve">
                                                 <rect x="0" y="0" style="fill:#50ABF1;" width="455.731" height="455.731" />
-
+        
                                                 <path style="fill:#FFFFFF;" d="M60.377,337.822c30.33,19.236,66.308,30.368,104.875,30.368c108.349,0,196.18-87.841,196.18-196.18
                         c0-2.705-0.057-5.39-0.161-8.067c3.919-3.084,28.157-22.511,34.098-35c0,0-19.683,8.18-38.947,10.107
                         c-0.038,0-0.085,0.009-0.123,0.009c0,0,0.038-0.019,0.104-0.066c1.775-1.186,26.591-18.079,29.951-38.207
@@ -171,7 +171,7 @@
                         c0,0-32.902,44.917,19.607,91.105c0,0-15.962-0.636-29.733-8.864c0,0-5.058,54.416,54.407,68.329c0,0-11.701,4.432-30.368,1.272
                         c0,0,10.439,43.968,63.271,48.077c0,0-41.777,37.74-101.081,28.885L60.377,337.822z" />
                                             </svg>
-
+        
                                         </a>
                                     </div>
                                 </div>
@@ -940,7 +940,7 @@
                 </span></li>
         </ul>
     </div>
-
+    
     <div id="navSubmitBtn">Submit</div>
 
 	<script>

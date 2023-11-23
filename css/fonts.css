@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "IntegralsUp";
+    src: url("../fonts/STIXIntegralsUpD-Bold.otf");
+}
+
+@font-face {
+    font-family: "SizeOneSym";
+    src: url("../fonts/STIXSizeOneSym-Regular.otf");
+}@font-face{font-family:"avniCielBC Cubano Normal"; src: url("../fonts/iCielBCCubano-Normal.otf");}
+@font-face{font-family:"avniCielBC Rostrum Regular"; src: url("../fonts/iCielBCRostrum-Regular.otf");}
+@font-face{font-family:"avnCalibri"; src: url("../fonts/calibri.ttf");}
+@font-face{font-family:"avniCielBC LiebeDoris Bold"; src: url("../fonts/iCielBCLiebeDoris-Bold.otf");}
+@font-face{font-family:"avnMTD QuangNinhThuphap"; src: url("../fonts/MTD QuangNinh_Thuphap.otf");}
+@font-face{font-family:"avniCielBC Pacifico normal"; src: url("../fonts/iCielBCPacifico-normal.otf");}
